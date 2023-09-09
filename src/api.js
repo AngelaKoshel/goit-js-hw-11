@@ -8,7 +8,7 @@ export async function getImages(
     const config = {
         url: 'https://pixabay.com/api/',
         params: {
-            key: '38641927-f84485d6b228f5ae40ab4372b',
+            key: '39346778-a3a2b3c2d1dad9f1bbeaace91',
             q: keywordOfSearch,
             image_type: 'photo',
             orientation: 'horizontal',
